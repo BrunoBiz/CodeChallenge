@@ -47,10 +47,6 @@ public class OldPhone
     static void Main(string[] args)
     {
         Console.Write(OldPhonePad("8 88777444666*664#"));
-        //Console.Write(OldPhonePad("227778866 666#"));
-        //Console.Write(OldPhonePad("5552887772#"));
-
-
     }
 
     public static String OldPhonePad(String input){
